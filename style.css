@@ -704,6 +704,9 @@ select:focus-visible {
   justify-content: center;
   padding: 20px;
 }
+.modal-overlay[hidden] {
+  display: none;
+}
 .modal {
   position: relative;
   background: var(--bg-card);
@@ -835,7 +838,4 @@ select:focus-visible {
   .hero { padding: 90px 20px 60px; }
   .section { padding: 50px 18px; }
   .filters-bar { flex-direction: column; align-items: stretch; }
-}
-.modal-overlay[hidden] {
-  display: none;
 }
