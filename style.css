@@ -836,3 +836,6 @@ select:focus-visible {
   .section { padding: 50px 18px; }
   .filters-bar { flex-direction: column; align-items: stretch; }
 }
+.modal-overlay[hidden] {
+  display: none;
+}
