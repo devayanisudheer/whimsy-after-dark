@@ -10,7 +10,13 @@
     "affiliateUrl": "https://example.com/product/crescent-moon-lamp",
     "badge": "Trending",
     "featured": true,
-    "tags": ["moon", "lamp", "bedroom", "aesthetic", "night"]
+    "tags": [
+      "moon",
+      "lamp",
+      "bedroom",
+      "aesthetic",
+      "night"
+    ]
   },
   {
     "id": 2,
@@ -23,7 +29,12 @@
     "affiliateUrl": "https://example.com/product/velvet-hair-clips",
     "badge": "Under ₹299",
     "featured": false,
-    "tags": ["hair", "accessories", "soft girl", "velvet"]
+    "tags": [
+      "hair",
+      "accessories",
+      "soft girl",
+      "velvet"
+    ]
   },
   {
     "id": 3,
@@ -36,7 +47,12 @@
     "affiliateUrl": "https://example.com/product/gothic-rosary-necklace",
     "badge": "Editor's Pick",
     "featured": true,
-    "tags": ["jewelry", "gothic", "necklace", "dark academia"]
+    "tags": [
+      "jewelry",
+      "gothic",
+      "necklace",
+      "dark academia"
+    ]
   },
   {
     "id": 4,
@@ -49,7 +65,12 @@
     "affiliateUrl": "https://example.com/product/resin-flower-bookmark",
     "badge": "Under ₹299",
     "featured": false,
-    "tags": ["stationery", "bookmark", "flowers", "reading"]
+    "tags": [
+      "stationery",
+      "bookmark",
+      "flowers",
+      "reading"
+    ]
   },
   {
     "id": 5,
@@ -62,7 +83,12 @@
     "affiliateUrl": "https://example.com/product/vintage-journal",
     "badge": "New",
     "featured": false,
-    "tags": ["journal", "stationery", "dark academia", "writing"]
+    "tags": [
+      "journal",
+      "stationery",
+      "dark academia",
+      "writing"
+    ]
   },
   {
     "id": 6,
@@ -75,7 +101,12 @@
     "affiliateUrl": "https://example.com/product/amethyst-cluster",
     "badge": "Editor's Pick",
     "featured": true,
-    "tags": ["crystal", "decor", "purple", "mystical"]
+    "tags": [
+      "crystal",
+      "decor",
+      "purple",
+      "mystical"
+    ]
   },
   {
     "id": 7,
@@ -88,7 +119,12 @@
     "affiliateUrl": "https://example.com/product/butterfly-claw-clips",
     "badge": "Under ₹299",
     "featured": false,
-    "tags": ["hair", "butterfly", "accessories", "cute"]
+    "tags": [
+      "hair",
+      "butterfly",
+      "accessories",
+      "cute"
+    ]
   },
   {
     "id": 8,
@@ -101,7 +137,12 @@
     "affiliateUrl": "https://example.com/product/star-print-slip-dress",
     "badge": "Trending",
     "featured": true,
-    "tags": ["dress", "fashion", "stars", "main character"]
+    "tags": [
+      "dress",
+      "fashion",
+      "stars",
+      "main character"
+    ]
   },
   {
     "id": 9,
@@ -114,7 +155,12 @@
     "affiliateUrl": "https://example.com/product/tarot-candle-set",
     "badge": "New",
     "featured": false,
-    "tags": ["candles", "gift", "tarot", "mystical"]
+    "tags": [
+      "candles",
+      "gift",
+      "tarot",
+      "mystical"
+    ]
   },
   {
     "id": 10,
@@ -127,7 +173,12 @@
     "affiliateUrl": "https://example.com/product/lavender-skincare-fridge",
     "badge": "Viral",
     "featured": true,
-    "tags": ["skincare", "beauty", "purple", "desk decor"]
+    "tags": [
+      "skincare",
+      "beauty",
+      "purple",
+      "desk decor"
+    ]
   },
   {
     "id": 11,
@@ -140,7 +191,12 @@
     "affiliateUrl": "https://example.com/product/moth-wing-tapestry",
     "badge": "Editor's Pick",
     "featured": false,
-    "tags": ["tapestry", "wall decor", "moth", "dark academia"]
+    "tags": [
+      "tapestry",
+      "wall decor",
+      "moth",
+      "dark academia"
+    ]
   },
   {
     "id": 12,
@@ -153,6 +209,49 @@
     "affiliateUrl": "https://example.com/product/star-jar-necklace",
     "badge": "Under ₹299",
     "featured": false,
-    "tags": ["jewelry", "star", "necklace", "under 299"]
+    "tags": [
+      "jewelry",
+      "star",
+      "necklace",
+      "under 299"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Crystal Moon Suncatcher",
+    "description": "A gold crescent moon cradling opal chips, hung with rainbow crystal drops that scatter light across the room.",
+    "price": "₹799",
+    "category": "Room Decor",
+    "marketplace": "Amazon",
+    "image": "assets/images/crystal-moon-suncatcher.jpg",
+    "affiliateUrl": "https://link.amazon/B0cbVpMDq",
+    "badge": "New",
+    "featured": false,
+    "tags": [
+      "moon",
+      "crystal",
+      "suncatcher",
+      "celestial",
+      "gold"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Hanging Beaded Basket Suncatcher",
+    "description": "A woven basket dripping with green and gold crystal beads, catching light like a tiny indoor garden chandelier.",
+    "price": "₹799",
+    "category": "Room Decor",
+    "marketplace": "Amazon",
+    "image": "assets/images/hanging-beaded-basket.jpg",
+    "affiliateUrl": "https://link.amazon/B07tvdwvm",
+    "badge": "New",
+    "featured": false,
+    "tags": [
+      "basket",
+      "beads",
+      "green",
+      "suncatcher",
+      "hanging decor"
+    ]
   }
 ]
